@@ -1,4 +1,4 @@
-PermissionACL
+PermissionACL MediaWiki extension
 =============
 
-PermissionACL MediaWiki extension
+see http://www.mediawiki.org/wiki/Extension:PermissionACL
