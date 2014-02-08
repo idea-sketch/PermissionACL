@@ -1,0 +1,4 @@
+PermissionACL
+=============
+
+PermissionACL MediaWiki extension
